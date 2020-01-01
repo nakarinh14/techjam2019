@@ -1,1 +1,1 @@
-Kaggle Competition Link (includes leaderboard and data): https://www.kaggle.com/c/tj19data
+Round 2 Competition Kaggle Link (includes questions,data and leaderboard): https://www.kaggle.com/c/tj19data
