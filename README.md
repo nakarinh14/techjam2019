@@ -1,5 +1,5 @@
 # Techjam2019
-This repository is for code of my 2nd-runner-up model solution in the [Techjam 2019](https://www.techjam.tech/) data science competition.
+This repository is for code of my 2nd-runner-up model solution in the final round of [Techjam 2019](https://www.techjam.tech/) data science competition.
 
 Techjam is a national competition in Thailand conducted by KASIKORN Business-Technology Group, 
 a subsidiary company of the Thailand's largest bank, Kasikorn Bank.
