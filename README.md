@@ -7,7 +7,7 @@ a subsidiary company of Thailand's largest bank, Kasikorn Bank.
 The competition has a focus on 3 seperate field: coding, data science, and design. This repository is for data science competition.
 
 **There are 2 competitive rounds in total:**
-* 1st round -  Top 20 team are selected out of all contestent to compete in the 2nd round, based on the model performance on unseen test set.
+* 1st round -  Top 20 team are selected out of all 1st round participants to compete in the 2nd round. Criterio is based on the model performance on unseen test set (e.g. custom SMAPE metrics).
 * 2nd round - Top 3 team out of the 20 teams that have highest overall score in model performance and pitching presentation are awarded with Winner, 1st runner-up, and 2nd runner-up prizes.
 
 **Note: There are more than 1500 teams participated in the 1st round across all 3 fields. I am the only member in the team and a solo competeitor in this competition.**
